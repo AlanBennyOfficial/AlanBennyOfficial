@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AlanBennyOfficial
 
+These are my public stats:
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alanbennyofficial?cardType=github&theme=dark&preferLogin=false&Title=7378D9&Border=7378D9&Text=60CA78)](https://git.io/awesome-stats-card)
 <!--
 </a>
