@@ -1,4 +1,4 @@
- <h1>👋 Hi, I’m @AlanBennyOfficial</h1>
+ <h1 align=center>👋 Hi, I’m @AlanBennyOfficial</h1>
 
 These are my public stats:
 
@@ -8,7 +8,7 @@ These are my public stats:
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbennyofficial&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
 </div>
-
+<!--
 ### Visitor Count
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
