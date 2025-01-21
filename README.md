@@ -84,7 +84,8 @@ These are my public stats:
 <img src="https://raw.githubusercontent.com/alanbennyofficial/alanbennyofficial/output/snake.svg" alt="Snake animation" />
 
 ###
-
+---
+### Profile view count:
 <div align="center">
   <img src="https://profile-counter.glitch.me/alanbennyofficial/count.svg?"  />
 </div>
