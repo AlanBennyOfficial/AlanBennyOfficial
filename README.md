@@ -8,17 +8,7 @@ These are my public stats:
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbennyofficial&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
 </div>
-<!--
-### Visitor Count
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
-</div>
-
-
-
-
-
-
+-->
 <!--
 - 👋 Hi, I’m @AlanBennyOfficial
 - 👀 I’m interested in ...
@@ -27,7 +17,6 @@ These are my public stats:
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
 
 # 💻 Tech Stack:
