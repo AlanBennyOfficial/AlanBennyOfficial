@@ -77,9 +77,8 @@ These are my public stats:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="49" alt="azure logo"  />
   <img width="12" />
-  <a style="text-decoration:none" href="https://www.linkedin.com/in/alanbennyofficial">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" />
-  <a>
+  <a href="https://www.linkedin.com/in/alanbennyofficial">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" ></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="vscode logo"  />
   <img width="12" />
