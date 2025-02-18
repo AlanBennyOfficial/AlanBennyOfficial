@@ -73,6 +73,8 @@ These are my public stats:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="49" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="49" alt="jupyter logo"  >
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="49" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="49" alt="azure logo"  />
