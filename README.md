@@ -50,8 +50,8 @@ These are my public stats:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="49" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="49" alt="github logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="49" alt="github logo"  />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="css3 logo"  />
