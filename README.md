@@ -126,8 +126,10 @@ Watch my contribution graph get eaten by a snake:
 ###
 ---
 ### Profile view count:
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/alanbennyofficial/count.svg?"  />
+</div> -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=alanbennyofficial&style=for-the-badge&color=7378D9"/>
 </div>
 
-###
